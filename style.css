@@ -1,0 +1,20 @@
+
+.codigo{ /*isso é uma classe*/
+    color: seagreen;
+}
+
+.amanha{
+    color: darkblue;
+}
+
+a { 
+    text-decoration: none;
+} 
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 20px;
+}
